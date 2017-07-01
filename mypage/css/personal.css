@@ -1,0 +1,25 @@
+.navbar{
+	border-width: 30px 50px 30px 50px;
+	border-color:white;
+	background-color:#a4c2f2;
+	color:#aaa;
+}
+.navbar li{
+	text-align:center;
+}
+.navBar li.active {
+	background-color:#4f8cef; !important
+}
+
+#aboutMe{
+	padding-top:90px;
+}
+#objectiveContent{
+	margin: 0px 80px 0px 80px;
+}
+.contentBody{
+	margin: 20px 120px 120px 120px;
+}
+.aboutSect{
+	margin-bottom:20px;
+}
