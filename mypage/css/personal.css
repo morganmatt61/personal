@@ -1,14 +1,26 @@
+body{
+	background-color:#F3ECE7
+}	
 .navbar{
-	border-width: 30px 50px 30px 50px;
+	padding: 30px 300px 30px 300px;
+	//border-width: 30px 300px 30px 300px;
+	border-
+	min-width:200px;
+	align-content: center;
 	border-color:white;
-	background-color:#a4c2f2;
+	background-color: #C4BDAC;
 	color:#aaa;
 }
 .navbar li{
+	background-color:#E4DAC2;
+	margin-left:20px;
+	margin-right:20px;
 	text-align:center;
+	border-radius:10px;
 }
-.navBar li.active {
-	background-color:#4f8cef; !important
+li.active {
+	border-radius:10px;
+	background-color:#F4EEE1; !important
 }
 
 #aboutMe{
